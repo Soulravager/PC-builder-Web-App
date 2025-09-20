@@ -3,7 +3,7 @@
 A powerful and user-friendly web platform designed to simplify custom PC building by offering compatibility checks, real-time pricing, expert AI assistance, and full e-commerce capabilities.
 
 ---
-FOR Demo:https://pc-parts-picker.onrender.com/ (may take time or down)
+FOR Demo:https://pc-parts-picker.onrender.com/ (may take time or be down)
 ## 🚀 Features
 
 ### 🔧 For Users:
