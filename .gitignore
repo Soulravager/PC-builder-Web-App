@@ -2,3 +2,4 @@ parts/views.py
 /#UPDATE .txt
 /staticfiles
 /Reso
+/.gitignore
